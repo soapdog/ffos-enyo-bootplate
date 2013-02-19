@@ -1,0 +1,22 @@
+{
+  "version": "1",
+  "name": "My App",
+  "description": "My Cool App",
+  "launch_path": "/",
+  "icons": {
+    "30": "/assets/icons/logo-30.png",
+    "60": "/assets/icons/logo-60.png",
+    "128": "/assets/icons/logo-128.png"
+  },
+  "developer": {
+    "name": "developer@example.com",
+    "url": "http://example.com"
+  },
+  "installs_allowed_from": ["*"],
+  "default_locale": "en",
+  "locales": {
+    "pt": {
+        "description": "My Cool App"
+    }
+  }
+}
