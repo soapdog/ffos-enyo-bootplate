@@ -7,3 +7,15 @@
 [submodule "lib/layout"]
 	path = lib/layout
 	url = https://github.com/enyojs/layout.git
+[submodule "lib/g11n"]
+	path = lib/g11n
+	url = https://github.com/enyojs/g11n
+[submodule "lib/webos-ports-lib"]
+	path = lib/webos-ports-lib
+	url = https://github.com/webOS-ports/webos-ports-lib
+[submodule "lib/webapi"]
+	path = lib/webapi
+	url = https://github.com/soapdog/webapi-enyo-components
+[submodule "lib/jaycanuck"]
+	path = lib/jaycanuck
+	url = https://github.com/JayCanuck/enyo-2-components
